@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8255
   #server.error.whitelabel.enabled=false
 spring:
   datasource:
